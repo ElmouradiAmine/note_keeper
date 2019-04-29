@@ -1,6 +1,8 @@
 # note_keeper
 
 This is a note keeper created using flutter and sqlite.
+![alt text](https://github.com/ElmouradiAmine/note_keeper/blob/master/Capture%20d’écran%202019-04-29%20à%2022.35.28.png)![alt text](https://github.com/ElmouradiAmine/note_keeper/blob/master/Capture%20d’écran%202019-04-29%20à%2022.35.42.png)
+
 
 ## Getting Started
 
