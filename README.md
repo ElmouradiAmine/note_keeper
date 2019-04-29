@@ -1,6 +1,6 @@
 # note_keeper
 
-A new Flutter project.
+This is a note keeper created using flutter and sqlite.
 
 ## Getting Started
 
